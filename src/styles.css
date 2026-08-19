@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+:root { color-scheme: dark; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: #07110d; color: #f5f1e6; font-family: "DM Sans", sans-serif; }
+button, a { -webkit-tap-highlight-color: transparent; }
+button { cursor: pointer; }
+::selection { background: #d8ff45; color: #07110d; }
